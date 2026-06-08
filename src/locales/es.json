@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Platos grupales que realmente suceden",
+    "subtitle": "No persigas a las personas en chats grupales.",
+    "description": "Crea eventos, deja que amigos voten por fechas y lugares, envía invitaciones y finalmente haz que los planes sucedan rápido"
+  },
+  "buttons": {
+    "participant": "Soy Participante",
+    "admin": "Login de Admin"
+  },
+  "why": {
+    "title": "¿Por qué Schedora?",
+    "features": [
+      "✓ Vota por fechas y lugares",
+      "✓ Comparte enlaces instantáneamente",
+      "✓ Recordatorios automáticos",
+      "✓ Controla asistencia"
+    ]
+  }
+}

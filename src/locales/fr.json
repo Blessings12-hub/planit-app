@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Plans de groupe qui se réalisent vraiment",
+    "subtitle": "Ne cherchez plus les gens dans les groupes.",
+    "description": "Créez des événements, laissez vos amis choisir les dates et lieux, envoyez des invitations et faites enfin des plans rapides"
+  },
+  "buttons": {
+    "participant": "Je suis Participant",
+    "admin": "Connexion Admin"
+  },
+  "why": {
+    "title": "Pourquoi Schedora?",
+    "features": [
+      "✓ Vote sur dates et lieux",
+      "✓ Partagez liens instantanément",
+      "✓ Rappels automatiques",
+      "✓ Suivez la présence"
+    ]
+  }
+}

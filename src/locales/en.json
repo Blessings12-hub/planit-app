@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Group plans that actually happen",
+    "subtitle": "Stop chasing people in group chats.",
+    "description": "Create events, let friends vote on dates and locations, send invites, and finally make plans happen fast"
+  },
+  "buttons": {
+    "participant": "I'm a Participant",
+    "admin": "Admin Login"
+  },
+  "why": {
+    "title": "Why Schedora?",
+    "features": [
+      "✓ Vote on dates and locations",
+      "✓ Share event links instantly",
+      "✓ Automatic reminders",
+      "✓ Track attendance"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Gruppenpläne, die wirklich passieren",
+    "subtitle": "Stoppe das Nachlaufen in Gruppenchats.",
+    "description": "Erstelle Events, lass Freunde über Daten und Orte abstimmen, sende Einladungen und mach Pläne schnell real"
+  },
+  "buttons": {
+    "participant": "Ich bin Teilnehmer",
+    "admin": "Admin Login"
+  },
+  "why": {
+    "title": "Warum Schedora?",
+    "features": [
+      "✓ Abstimmen über Daten und Orte",
+      "✓ Event-Links sofort teilen",
+      "✓ Automatische Erinnerungen",
+      "✓ Teilnahme verfolgen"
+    ]
+  }
+}
